@@ -122,7 +122,9 @@ export default function FirstRegister({
                 <div className="md:flex">
                   <select
                     value={platform[0]}
+
                     onChange={(e) => platform[1](e.target.value)}
+ 
                     id="platform"
                     className="bg-transparent mr-2 border border-gray-800 text-black sm:text-sm rounded-lg focus:ring-primary-800 focus:border-primary-800 block w-25 p-2.5 border-y-1"
                   >
