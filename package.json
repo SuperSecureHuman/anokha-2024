@@ -24,7 +24,7 @@
     "gsap": "^3.12.5",
     "hamburger-react": "^2.5.0",
     "markdown-to-jsx": "^7.4.1",
-    "next": "14.0.4",
+    "next": "14.1.1",
     "next-transpile-modules": "^10.0.1",
     "primeicons": "^6.0.1",
     "primereact": "9.6.2",
